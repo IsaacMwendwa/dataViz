@@ -1,4 +1,4 @@
-Car,Manufacturer,MPG,Cylinders,Displacement,Horsepower,Weight,Acceleration,Model Year,Origin
+Car,Manufacturer,MPG,Cylinders,Displacement,Horsepower,Weight,Acceleration,Model_Year,Origin
 chevelle malibu,chevrolet,18,8,307,130,3504,12,70,American
 skylark 320,buick,15,8,350,165,3693,11.5,70,American
 satellite,plymouth,18,8,318,150,3436,11,70,American
